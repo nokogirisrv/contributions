@@ -1,4 +1,4 @@
-# [Nesa](https://kusama.network/) contributions list. 
+# [Nesa](https://nesa.ai/) contributions list. 
 
 ## Nesa Technical Contributions
 - **none**: [Link]()
