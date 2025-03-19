@@ -7,6 +7,7 @@
 - **Step-by-Step Guide How to Set Up a NESA Miner Testnet Node**: [Link](https://medium.com/@nokogirisrv/step-by-step-guide-how-to-set-up-a-nesa-miner-testnet-node-b45e73e22550)
 
 # Community and Marketing Contributions
+### Nokogiri Services is ambassador for Nesa.
 ### Medium articles:
 - **Exploring Nesa: Redefining AI Research and Innovation**: [Link](https://medium.com/@nokogirisrv/exploring-nesa-redefining-ai-research-and-innovation-d40bf0dd4763)
 - **Why Nesa is Better Than Centralized AI: A Paradigm Shift in Ethical Technology**: [Link](https://medium.com/@nokogirisrv/why-nesa-is-better-than-centralized-ai-a-paradigm-shift-in-ethical-technology-b8fb9811b605)
